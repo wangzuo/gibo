@@ -11,5 +11,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "description": "",
-  "files": ["bin.js"]
+  "files": [
+    "bin.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/gibo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangzuo/gibo/issues"
+  },
+  "homepage": "https://github.com/wangzuo/gibo#readme"
 }

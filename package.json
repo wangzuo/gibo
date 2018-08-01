@@ -1,0 +1,15 @@
+{
+  "name": "gibo",
+  "version": "0.1.0",
+  "main": "index.js",
+  "bin": {
+    "gibo": "bin.js"
+  },
+  "author": "Wang Zuo <wzuoadjusted@gmail.com> (https://wangzuo.me/)",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "",
+  "files": ["bin.js"]
+}
